@@ -10,20 +10,20 @@
 
 Before you can use this project, make sure you have the following prerequisites installed:
 
-Excel
-Power BI Desktop
+* Excel
+* Power BI Desktop
 
 ## Power BI Dashboard
 The Power BI dashboard consists of three main pages:
 
-## Overview Page
-The overview page provides an at-a-glance summary of passenger satisfaction levels. It includes key metrics such as overall satisfaction ratings, average seat comfort, and in-flight service quality. Interactive charts and graphs allow you to explore the data in detail and gain insights into passenger sentiment.
+## 1.Overview Page
+The overview page provides an at-a-glance summary of passenger satisfaction levels, offering insights into various aspects such as flight distance, gender distribution, and more. Interactive charts and graphs enable you to explore the data in detail and gain a better understanding of passenger preferences.
 
-## Rating Page
-On the rating page, you can dive deeper into passenger ratings. It offers breakdowns of satisfaction ratings for various aspects of the airline experience, such as food and drink quality, cabin cleanliness, and entertainment options. This page helps identify areas where improvements may be needed.
+## 2.Rating Page
+On the rating page, you can dive deeper into passenger ratings. It offers breakdowns of satisfaction ratings for various aspects of the airline experience, such as food and drink quality, cabin cleanliness, and entertainment options. This page helps identify areas where improvements may be needed.It also includes key metrics such as overall satisfaction ratings
 
-## Insights Page
-The insights page presents actionable insights derived from the dataset. It may include correlations between different satisfaction factors, trends over time, or comparisons with industry benchmarks. These insights can guide decision-makers in making data-driven improvements to enhance passenger satisfaction.
+## 3.Insight Page
+The insights page presents actionable insights and key information derived from the dataset. These insights can guide decision-makers in making data-driven improvements to enhance passenger satisfaction.
 
 ## Data Source
 The Airline Personal Satisfaction Dataset used in this project can be found at [mavenanalytics](https://app.mavenanalytics.io/datasets?search=airline%20passenger%20satisfaction). It contains anonymized data collected from airline passengers and includes various survey responses related to their travel experiences.
