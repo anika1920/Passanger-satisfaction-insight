@@ -1,6 +1,6 @@
  # Passanger satisfaction dashboard
 
- Airline Satisfaction Dashboard is a project that analyzes customer satisfaction data from the Airline Personal Satisfaction Dataset and presents it in an interactive Power BI dashboard. This project aims to help airline companies gain insights into passenger satisfaction and improve their services accordingly.
+ Airline Satisfaction Dashboard is a project that analyzes customer satisfaction data from the Airline Personal Satisfaction Dataset and presents it in an interactive Power BI dashboard. This project aims to gain insights into passenger satisfaction and improve their services accordingly.
 
  ## Overview
 
