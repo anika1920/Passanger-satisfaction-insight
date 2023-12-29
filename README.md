@@ -1,14 +1,9 @@
  # Passanger satisfaction dashboard
 
- Airline Satisfaction Dashboard is a project that analyzes customer satisfaction data from the Airline Personal Satisfaction Dataset and presents it in an interactive Power BI dashboard. This project aims to gain insights into passenger satisfaction and improve their services accordingly.
+This project dives into the Airline Personal Satisfaction Dataset to give you a complete picture of how satisfied customers are with the airline industry. We're analyzing the data to uncover what factors contribute to customer happiness.  The dataset contains information about various aspects of the passenger experience, including in-flight services, seat comfort, and overall satisfaction. By visualizing this data in Power BI, we can identify trends and patterns that can inform decision-making and enhance passenger satisfaction.
 
- ## Overview
 
- This project leverages the Airline Personal Satisfaction Dataset to provide a comprehensive overview of customer satisfaction within the airline industry. The dataset contains information about various aspects of the passenger experience, including in-flight services, seat comfort, and overall satisfaction. By visualizing this data in Power BI, we can identify trends and patterns that can inform decision-making and enhance passenger satisfaction.
-
-## Prerequisites
-
-Before you can use this project, make sure you have the following prerequisites installed:
+## Software
 
 * Excel
 * Power BI Desktop
@@ -26,7 +21,7 @@ On the rating page, you can dive deeper into passenger ratings. It offers breakd
 The insights page presents actionable insights and key information derived from the dataset. These insights can guide decision-makers in making data-driven improvements to enhance passenger satisfaction.
 
 ## Data Source
-The Airline Personal Satisfaction Dataset used in this project can be found at [mavenanalytics](https://app.mavenanalytics.io/datasets?search=airline%20passenger%20satisfaction). It contains anonymized data collected from airline passengers and includes various survey responses related to their travel experiences.
+The Airline Personal Satisfaction Dataset used in this project can be found at [mavenanalytics](https://app.mavenanalytics.io/datasets?search=airline%20passenger%20satisfaction).
 
 
 
